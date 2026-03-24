@@ -12,3 +12,4 @@ Hello! This is my first GitHub repository where I'm learning Git and GitHub.
 - Version control with Git
 - Collaborating with teams
 - Best practices in development
+- I have done this changes in order to understand exactly what needs to be done under git and github
